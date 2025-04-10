@@ -1,2 +1,2 @@
-# second_-java-app
+# second-java-app
 YearUp
